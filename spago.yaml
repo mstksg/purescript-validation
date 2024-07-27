@@ -1,0 +1,15 @@
+package:
+  name: validation
+  dependencies:
+    - bifunctors
+    - console
+    - control
+    - effect
+    - either
+    - foldable-traversable
+    - newtype
+    - prelude
+workspace:
+  packageSet:
+    registry: 56.1.0
+  extraPackages: {}
